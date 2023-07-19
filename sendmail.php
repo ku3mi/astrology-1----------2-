@@ -1,7 +1,4 @@
 <?php
-$name = $_POST['name'];
-$url = $_POST['url'];
-$message = $_POST['message'];
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
